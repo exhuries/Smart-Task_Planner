@@ -26,20 +26,8 @@ cd smart-task-planner
 # Install dependencies
 pip install -r requirements.txt
 
-📂 Project Structure
-smart-task-planner/
-│
-├─ main.py                # Optional CLI runner
-├─ frontend.py            # Streamlit UI
-├─ api.py                 # FastAPI backend
-├─ requirements.txt       # Python dependencies
-├─ tasks.db               # SQLite database (auto-created)
-└─ planner/               # Python package for logic
-    ├─ __init__.py
-    ├─ parser.py          # Parse LLM text
-    ├─ tasks.py           # Task class
-    ├─ htn.py             # HTN planner
-    └─ llm_interface.py   # LLM interaction
+<img width="520" height="365" alt="image" src="https://github.com/user-attachments/assets/4f902c6a-dc14-47ed-a334-353c24fd7511" />
+
 
 🖥️ Usage
 1. CLI
