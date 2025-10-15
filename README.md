@@ -4,7 +4,7 @@ Smart Task Planner breaks down user goals into actionable tasks with timelines u
 
 It supports CLI, Streamlit frontend, REST API, and persistent storage via SQLite.
 
-🚀 Features
+# 🚀 Features
 
 Generate tasks from a high-level goal using AI (LLM-based)
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 <img width="520" height="365" alt="image" src="https://github.com/user-attachments/assets/4f902c6a-dc14-47ed-a334-353c24fd7511" />
 
 
-🖥️ Usage
+# 🖥️ Usage
 1. CLI
 python main.py --goal "Plan my study schedule for exams"
 
@@ -46,7 +46,7 @@ GET /tasks/ → Retrieve all tasks
 
 GET /tasks/{task_id} → Retrieve a specific task
 
-📌 Example: Planning a Product Launch
+# 📌 Example: Planning a Product Launch
 
 Query:
 
@@ -102,12 +102,12 @@ Response:
 
 
 
-🎥 Demo Video
+# 🎥 Demo Video
 https://drive.google.com/file/d/1l5xZc29_rUZwDvnaUl1PsEi2IPIr-v3H/view?usp=drive_link
 
 Watch the Demo
 
-💡 How it Works
+# 💡 How it Works
 
 Goal Input: User provides a high-level goal
 
@@ -119,7 +119,7 @@ Task Planning: HTN planner (planner/htn.py) schedules tasks based on dependencie
 
 Storage & Retrieval: Tasks are stored in SQLite (tasks.db) and can be retrieved via REST API or UI
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3.11+
 
@@ -133,7 +133,7 @@ OpenAI / LLM (Task generation)
 
 HTN Planner (Task scheduling)
 
-🤝 Contribution
+# 🤝 Contribution
 
 Contributions are welcome!
 
