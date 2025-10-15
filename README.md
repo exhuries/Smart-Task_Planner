@@ -1,4 +1,4 @@
-    Smart Task Planner
+# Smart Task Planner
 
 Smart Task Planner breaks down user goals into actionable tasks with timelines using AI reasoning. It combines task generation, hierarchical task planning, and intuitive frontends to help users plan and track their goals effectively.
 
