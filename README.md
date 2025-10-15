@@ -109,7 +109,6 @@ Response:
   ]
 }
 
-📸 Screenshot
 <img width="882" height="821" alt="image" src="https://github.com/user-attachments/assets/de16e23c-ccb9-4407-94ba-49aa0fc10281" />
 
 
